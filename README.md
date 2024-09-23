@@ -1,3 +1,4 @@
 # apna-collage
 this is my frist repository
-author aman kushwaha
+<br>
+Author - aman kushwaha
